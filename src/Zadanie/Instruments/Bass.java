@@ -10,7 +10,7 @@ public class Bass extends Guitar {
 
     @Override
     public void playMusic() {
-        System.out.println("PianoSolo");
+        System.out.println("BassSolo");
     }
 
     @Override
